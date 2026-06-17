@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+
+# Virtual Environments
+venv/
+env/
+.env
+.venv/
+
+# SQLite Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Exported Data
+*.csv
+*.json
+
+# Webdriver Manager Cache
+.wdm/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Distribution / Build
+dist/
+build/
+*.egg-info/
